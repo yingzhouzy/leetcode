@@ -1,0 +1,8 @@
+#/mnt/c/ZY/plant/plant2/programming/git1/leetcode
+#git branch
+git status
+git diff
+git add
+git commit -m "xxx"
+git pull origin main //git pull origin master
+git push origin -u main
